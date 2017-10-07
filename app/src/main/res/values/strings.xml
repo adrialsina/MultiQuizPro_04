@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuizPro</string>
+    <string name="question">Question</string>
+    <string name="check">check</string>
+    <string name="correct">Very Good!</string>
+    <string name="incorrect">Wrong!</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start Over</string>
+
+    <array name="all_questions">
+        <item>What is the capital of France ?;Barcelona;Brusel·les;*Paris;Londres</item>
+        <item>Pregunta 2;a;*b;c;d</item>
+    </array>
+</resources>

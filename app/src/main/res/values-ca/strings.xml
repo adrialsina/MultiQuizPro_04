@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check">Comprova</string>
+    <string name="correct">Molt Bé!</string>
+    <string name="finish">Acaba</string>
+    <string name="incorrect">Malament!</string>
+    <string name="next">Següent</string>
+    <string name="prev">Anterior</string>
+    <string name="question">Pregunta</string>
+    <string name="results">Resultats</string>
+    <string name="start_over">Torna a començar</string>
+</resources>
